@@ -11,6 +11,12 @@
 
 https://github.com/user-attachments/assets/67c20fc1-bd92-4a55-8a29-fa804ec83273
 
+### Usage
+- Download and extract [Box2D](https://github.com/erincatto/box2d) and copy box2d.lib and box2dd.lib to your project directory
+- Open .sln and configure your paths in Project Settings
+- Try to run it, it will give error but it will create the folders x64/Debug and x64/Release
+- Download [SDL3_image](https://github.com/libsdl-org/SDL_image) and [SDL3_ttf](https://github.com/libsdl-org/SDL_ttf) and copy on those folders SDL3_image.dll and SDL3_ttf.dll
+
 ### Controls
 - SPACE: spawn crate or box
 - C: spawn crate
