@@ -1,6 +1,6 @@
 ## Physics Sandbox (SDL3 + Box2D 3 Base project)
 
-A simple 2D physics sandbox demonstrating:
+### A simple 2D physics sandbox demonstrating:
 - SDL - Box2D integration
 - mouse interaction
 - object spawning
